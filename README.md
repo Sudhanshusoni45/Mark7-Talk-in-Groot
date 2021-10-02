@@ -3,6 +3,6 @@
 # How to use
 Just Enter whatever text you want to convert to groot language and hit translate button.
 # Languages used
--HTML
--CSS
--JavaScript
+- HTML
+- CSS
+- JavaScript
